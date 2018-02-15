@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-screensize",
+  "description": "Angular v1.X module for screen width/height and Bootstrap's breakpoints",
+  "version": "1.0.5",
+  "main": "main.js",
+  "authors": [
+    "Joe Downie"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "screen",
+    "size",
+    "screensize",
+    "checker",
+    "window"
+  ],
+  "homepage": "https://github.com/jvdownie/bootstrap-screensize",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-debounce": "^1.0.3"
+  }
+}

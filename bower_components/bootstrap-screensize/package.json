@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap-screensize",
+  "email": "jld.downie@gmail.com",
+  "version": "1.0.5",
+  "description": "Angular v1.X module for screen width/height and Bootstrap's breakpoints",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvdownie/bootstrap-screensize.git"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "screen",
+    "size",
+    "screensize",
+    "checker",
+    "window"
+  ],
+  "author": "Joe Downie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvdownie/bootstrap-screensize/issues"
+  },
+  "homepage": "https://github.com/jvdownie/bootstrap-screensize#readme",
+  "dependencies": {
+    "angular-debounce": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
